@@ -4,7 +4,7 @@ description:    "Minimal Jekyll theme for storytellers"
 baseurl:        ""
 url:            "https://chesterhow.github.io"
 
-staticman_url: https://${bridge_app_name}.herokuapp.com/v2/entry/sealedhermit/talewebsite/master/comments
+staticman_url: https://staticmonk.herokuapp.com/v2/entry/sealedhermit/talewebsite/master/comments
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
