@@ -8,7 +8,12 @@ tags:
 excerpt_separator: "<!--more-->"
 sticky: true
 hidden: true
-
+thumbnail:
+  src: /assets/thumbnails/tree-gdfd8625bd_640.jpg
+  alt: "tree"
+  override: # <--- optional, but we specified it here
+    preview: /assets/thumbnails/tree-gdfd8625bd_640.jpg
+    sidebar: /assets/thumbnails/tree-gdfd8625bd_640.jpg
 ---
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.<!--more-->
 
