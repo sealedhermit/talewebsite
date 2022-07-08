@@ -25,6 +25,8 @@ Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers
 
 Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
 
+![placeholder](/assets/landscape-gc7fd45db3_1920.webp){:.centered}
+
 ## Browser Support
 Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
 
