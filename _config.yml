@@ -6,12 +6,7 @@ url:            "https://chesterhow.github.io"
 
 staticman_url: https://staticmonk.herokuapp.com/v2/entry/sealedhermit/talewebsite/master/comments
 
-gallerytag:
-    dir: images/galleries
-    url: /images/galleries
-    thumb_width: 150
-    thumb_height: 150
-    columns: 4
+
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
