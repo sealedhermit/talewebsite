@@ -38,7 +38,7 @@ Hemis Monatery of Ladakh is the largest and the richest monastery of the Ladakh 
 
 Hemis Monastery of Ladakh has a typical Tibetan architecture where ample use of mud, wood and stones for construction is observed. Walls of the gompa have detailed murals of Tibetan gods and goddesses and other sacred symbols significant to Tibetan Tantric Buddhism. ‘Wheel of Life’ is an important painting. These paintings are extremely colourful and the colourful prayer flags compliment them and there are numerous prayer wheels of various sizes too. The vivid colours look beautiful in contrast to the rugged mountains or landscape around. A large courtyard is at the center and to its right from the entrance is Tshogs-khang, the main temple of the Buddha housing a huge gilded blue haired idol of Sakyamuni Buddha. The Du-Khang, another part of the temple, is the main Assembly Hall with the throne of the Rinpoche and the seats for the lamas (monks). There is temple dedicated to Guru Padmasambhaba and the founder of the Hemis Monastery of Ladakh. The Hemis Museum, the mural gallery and a souvenir shop are must visit sites within the gompa. The museum exhibits items, sculptures, paintings, manuscripts and thangkas which are as old as thousand years. The mural gallery has wall paintings done with stone and natural dyes. Do not miss the roof top because the panoramic view from the terrace is breath taking. Try out Tibetan dishes at the café just outside the monastery; they are delicious. The visiting time is 8 am to 6 pm and 1 pm-2 pm is lunch hour. Ticket cost per person for entry is Rs.50 and it includes a visit to the museum as well.
 
-{% include image-gallery.html folder="/uploads/album" %}
+{% include image-gallery.html folder="uploads/album" %}
 
 
 
