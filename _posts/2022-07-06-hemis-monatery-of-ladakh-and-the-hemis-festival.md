@@ -26,6 +26,7 @@ tags:
     - ladakh
     - leh
     - monastery
+lightbox_captions: true
 ---
 
 ![placeholder](/assets/hemis/Hemis-Festival_Cover.webp){:.centered}
