@@ -17,7 +17,7 @@ tags:
     - leh
     - monastery
 lightbox_captions: true
-image: /assets/images/hemisfeatured.img
+image: /assets/images/hemisfeatured.jpg
 ---
 
 ![placeholder](/assets/hemis/Hemis-Festival_Cover.webp){:.centered}
