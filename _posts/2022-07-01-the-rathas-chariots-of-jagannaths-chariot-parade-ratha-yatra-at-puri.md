@@ -5,7 +5,7 @@ date: '2022-07-01T06:15:41+00:00'
 author: admin
 layout: post
 
-permalink: /2022/07/01/the-rathas-chariots-of-jagannaths-chariot-parade-ratha-yatra-at-puri/
+permalink: the-rathas-chariots-of-jagannaths-chariot-parade-ratha-yatra-at-puri/
 
 categories:
     - Festival

@@ -4,7 +4,7 @@ title: 'Hemis Monastery of Ladakh and the Hemis Festival'
 date: '2022-07-06T09:26:47+00:00'
 author: admin
 layout: post
-permalink: /2022/07/06/hemis-monatery-of-ladakh-and-the-hemis-festival/
+permalink: /hemis-monatery-of-ladakh-and-the-hemis-festival/
 categories:
     - Festival
     - Travel
