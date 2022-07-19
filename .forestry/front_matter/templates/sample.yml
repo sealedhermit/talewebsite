@@ -32,3 +32,5 @@ fields:
 - type: boolean
   name: comments
   label: comments
+pages:
+- _posts/again-a-sample-post.md
