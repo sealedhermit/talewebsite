@@ -3,6 +3,7 @@ title: 'again a sample post '
 date: 2022-07-18 18:30:00 +0000
 author: admin
 layout: post
+permalink: "/a-sample-post"
 categories:
 - 'travel '
 - ''
