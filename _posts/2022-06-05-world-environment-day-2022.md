@@ -1,11 +1,11 @@
 ---
 
 title: 'World Environment Day 2022'
-date: '2022-07-01T06:15:41'
+date: '2022-07-01T06:15:41+00:00'
 author: admin
 layout: post
 
-permalink: the-himalayas-a-miracle/
+permalink: world-environment-day-2022
 
 categories:
     - Nature
