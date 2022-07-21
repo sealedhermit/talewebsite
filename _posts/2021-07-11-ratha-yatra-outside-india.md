@@ -1,28 +1,25 @@
-
 ---
-
 title: 'Ratha Yatra Outside India'
 date: '2022-07-01T06:15:41+00:00'
 author: admin
 layout: post
 
-permalink: ratha-yathra-outside-India/
+permalink: ratha-yatra-outside-India/
 
 categories:
-    - Leisure
-    - Travel
+   - Culture
+   - Festivals
 
 tag:
    - International
-   - iskcon
-   - indian culture
-
-
+   - Iskcon
+   - Indian Culture
 
 lightbox_captions: true
- 
+    
 comments: true     
 ---
+
 
 ## Introduction
 
@@ -57,7 +54,11 @@ The procession at London starts from Hyde Park, moves through Piccadilly and end
 
 When it comes to Ratha Yatra outside India some of the European cities are extremely popular for celebrating Ratha Yatra with panache. Czech Republic’s capital and fairy tale city, .Prague, is well known for its 40 feet high rath (chariot). It was way back in 1981 at the Tuscan town of Viareggio when the first Ratha Yatra in Italy was held. Now Italy celebrates Ratha Yatra at the capital city, Rome and Florence with hundreds of devotees joining the parade. The Berlin Ratha Yatra is historical and is being held for more than 40 years now. Heidelberg and Cologne in Germany also celebrate Ratha Yatra pompously. I am sharing a video of Berlin’s celebrations by <a href="http://iskconnews.org">iskconnews.org</a> because it is one of my favourites. The devotion reflected in the magical video brings tears to the eyes and joy to the soul.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D7CZUrB7--8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+{% youtube https://youtu.be/D7CZUrB7--8 %}
+
 
 ## More of Europe
 
