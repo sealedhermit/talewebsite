@@ -57,4 +57,4 @@ Being amidst nature is therapeutic. Nature gives us clarity and transfers its en
 		
 Life is a gift and let’s choose eternity over the indulgent modern living which actually restricts our life. This World Environment Day I earnestly request all to think over this.
 				
-![placeholder](/assets/images/IMG_6096){:.centered}
+![placeholder](/assets/images/IMG_6096.jpg){:.centered}
