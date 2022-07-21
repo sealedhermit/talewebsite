@@ -11,9 +11,11 @@ categories:
     - Nature
     - Travel
 
-tags:
-    - Himalayas
-	- Nature
+tag:
+   - Himalayas
+   - Nature
+
+
 
 lightbox_captions: true
 image: /assets/images/environmentday/Trees-250x186.jpg    
