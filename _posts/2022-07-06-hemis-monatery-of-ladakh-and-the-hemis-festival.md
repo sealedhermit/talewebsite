@@ -4,6 +4,7 @@ title: 'Hemis Monastery of Ladakh and the Hemis Festival'
 date: '2022-07-06T09:26:47+00:00'
 author: admin
 layout: post
+
 permalink: /hemis-monatery-of-ladakh-and-the-hemis-festival/
 categories:
     - Festival
@@ -23,7 +24,7 @@ comments: true
 ## Introduction
 
 
-Hemis Monatery of Ladakh is the largest and the richest monastery of the Ladakh region. 45 milometers from Leh, stands this famous gompa or monastery at the Hemis Village, near the Hemis National Park where the endangered snow leopards are found. This 40 kilometres drive is something that remains etched in the memory for a very long time. This 11<sup>th</sup> century monastery of Drukpa Kagyu lineage (Red Hat Sect of Buddhism) was restored in 1672 AD by Taktsang Respa Ngawang Gyatso under the patronage of the Ladakhi King, Sengge Namgyal. A golden Buddha seated on a hill top overlooks the vast expanse of the valley and the sprawling monastery. This Himalayan Tibetan-Buddhist Monastery, perched at an altitude of 12000 feet is globally famous for the Hemis Festival in June-July. In 2022, i.e.,this year the dates are 8th and 9th of July.
+Hemis Monatery of Ladakh is the largest and the richest monastery of the Ladakh region. 45 milometers from Leh, stands this famous gompa or monastery at the Hemis Village, near the Hemis National Park where the endangered snow leopards are found. This 40 kilometres drive is something that remains etched in the memory for a very long time. This 11th century monastery of Drukpa Kagyu lineage (Red Hat Sect of Buddhism) was restored in 1672 AD by Taktsang Respa Ngawang Gyatso under the patronage of the Ladakhi King, Sengge Namgyal. A golden Buddha seated on a hill top overlooks the vast expanse of the valley and the sprawling monastery. This Himalayan Tibetan-Buddhist Monastery, perched at an altitude of 12000 feet is globally famous for the Hemis Festival in June-July. In 2022, i.e.,this year the dates are 8th and 9th of July.
 
 {% include image-gallery.html folder="uploads/album/hemis/hemisfirst" %}
 
