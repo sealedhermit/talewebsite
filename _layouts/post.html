@@ -33,8 +33,9 @@ layout: default
 
   {% include share-buttons.html %}
 
-  {% include author_bio.html %}
-    
+  {% if author.bio %}
+    {% include author_bio.html %}
+    {% endif %}
  
 </div>
 
