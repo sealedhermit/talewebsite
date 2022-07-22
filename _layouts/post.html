@@ -33,13 +33,13 @@ layout: default
 
   {% include share-buttons.html %}
 
+  {% if author.bio %}
+    {% include author_bio.html %}
+    {% endif %}
  
 </div>
 
-## if there is an author bio
-{% if author.bio %}
-    {% include author_bio.html %}
-{% endif %}
+
 
 {% if page.comments == true %}
   {% include comments.html %}

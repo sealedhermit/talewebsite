@@ -1,7 +1,7 @@
 ---
 title: 'Ratha Yatra Outside India'
 date: '2022-07-01T06:15:41+00:00'
-author: admin
+author: monica_powell
 layout: post
 
 permalink: ratha-yatra-outside-India/
