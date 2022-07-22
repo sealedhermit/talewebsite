@@ -16,7 +16,7 @@ tag:
    - Indian Culture
 
 lightbox_captions: true
-    
+image: /assets/images/ryoutside/paris.jpg  
 comments: true     
 ---
 

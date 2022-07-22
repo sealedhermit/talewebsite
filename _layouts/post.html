@@ -28,13 +28,24 @@ layout: default
   <div class="post-line"></div>
 
   {{ content }}
+
   {% include breadcrumbs.html %}
+
   {% include share-buttons.html %}
+
+ 
 </div>
+
+## if there is an author bio
+{% if author.bio %}
+    {% include author_bio.html %}
+{% endif %}
 
 {% if page.comments == true %}
   {% include comments.html %}
 {% endif %}
+
+
 
 <div class="pagination">
   {% if page.next.url %}

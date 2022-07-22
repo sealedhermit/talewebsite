@@ -2,7 +2,7 @@
 
 title: 'Hemis Monastery of Ladakh and the Hemis Festival'
 date: '2022-07-06T09:26:47+00:00'
-author: admin
+
 layout: post
 
 permalink: /hemis-monatery-of-ladakh-and-the-hemis-festival/
@@ -18,6 +18,7 @@ tags:
 lightbox_captions: true
 image: /assets/images/hemis/Hemis-Festival_Cover.webp
 comments: true
+author: monica_powell
 ---
 
 
