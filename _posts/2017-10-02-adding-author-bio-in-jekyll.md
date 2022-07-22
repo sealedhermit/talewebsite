@@ -2,8 +2,8 @@
 layout: post
 title: How to Add Author Bio to Posts in Jekyll
 description: A guide to including biographical information for authors in Jekyll blog posts
-image: assets/images/author-bio.png
-permalink: adding-author-bios-in-jekyll
+
+permalink: adding-author-bios-in-jekyll/
 author: monica_powell
 comments: true
 ---
