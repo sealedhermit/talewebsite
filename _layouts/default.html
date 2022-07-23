@@ -11,6 +11,10 @@
       {{ content }}
     </main>
 
+    {% if author.bio %}
+    {% include author_bio.html %}
+    {% endif %}
+
     {% include footer.html %}
     
 <script type="text/javascript" src="/js/lightbox.js"></script>

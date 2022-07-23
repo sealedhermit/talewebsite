@@ -33,13 +33,37 @@ layout: default
 
   {% include share-buttons.html %}
 
-  {% if author.bio %}
-    {% include author_bio.html %}
-    {% endif %}
+
  
 </div>
 
 
+
+
+		</header>
+
+    <!-- Look the author details up from the site config. -->
+    <!-- {% assign author = site.data.authors[page.author] %} -->
+
+    <!-- Output author details if some exist. -->
+    <!-- {% if author %}
+  <span> -->
+      <!-- Personal Info. -->
+      <!-- Written by: <a href="{{ author.twitter }}" target="_blank">{{ author.name }}</a>
+  </span>
+{% endif %} -->
+
+
+		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+		
+
+    
+
+
+    {% if author.bio %}
+    {% include author_bio.html %}
+    {% endif %}
+	</div>
 
 {% if page.comments == true %}
   {% include comments.html %}
