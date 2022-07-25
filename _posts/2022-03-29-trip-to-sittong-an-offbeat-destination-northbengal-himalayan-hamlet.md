@@ -2,7 +2,7 @@
 layout: post
 title: Trip to Sittong, an Offbeat Destination
 date: 2022-03-29 14:59
-author: admin
+author: Dipannita
 comments: true
 permalink: trip-to-sittong/
 categories: [ahaldara, cinchona, himalayanhamlet, mongpu rabindranathtagore, naturesbliss, northbengal, offbeatdestination, oranges, pristine, serene, sittong, tea, Travel, westbengaltourism]

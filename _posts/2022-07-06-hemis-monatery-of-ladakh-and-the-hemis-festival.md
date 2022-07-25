@@ -18,7 +18,7 @@ tags:
 lightbox_captions: true
 image: /assets/images/hemis/Hemis-Festival_Cover.webp
 comments: true
-author: monica_powell
+author: Dipannita
 ---
 
 
