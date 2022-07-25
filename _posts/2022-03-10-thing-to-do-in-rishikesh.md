@@ -7,7 +7,7 @@ comments: true
 categories: [beatlesashram, beatlescave, bungeejumping, chotiwala, gangaarti, lakshmanjhula, mahadev, neelkanthtemple, ramjhula, ramjhulalakshmanjhula, Rishikesh, riverrafting, Travel, uttarakhand, yogacapital]
 lightbox_captions: true
 image: /assets/images/rishikesh/Rishikesh-Shiva-1.jpg  
-
+permalink: things-to-do-in-rishikesh/
 ---
 
 ## Introduction
