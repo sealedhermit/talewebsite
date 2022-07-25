@@ -1,6 +1,6 @@
 ---
 
-title: 'The Rathas/Chariots of Jagannath’s Chariot Parade/ Ratha Yatra at Puri'
+title: 'Ratha Yatra at Puri'
 date: '2022-07-01T06:15:41+00:00'
 author: Dipannita
 

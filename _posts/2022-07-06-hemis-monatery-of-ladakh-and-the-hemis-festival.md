@@ -1,6 +1,6 @@
 ---
 
-title: 'Hemis Monastery of Ladakh and the Hemis Festival'
+title: 'Hemis Monastery, Ladakh and Hemis Festival'
 date: '2022-07-06T09:26:47+00:00'
 
 layout: post

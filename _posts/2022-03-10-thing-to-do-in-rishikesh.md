@@ -43,7 +43,7 @@ The green hills on both sides of the river and the cloudy sky looked mysterious.
 
 Drenched I went to change at Parmath Niketan and then witnessed the evening Ganga arti at Parmath Ghat. The famous Shiva statue of Rishikesh is situated here. Like in Haridwar, participating in Ganga arti is one of the major things to do in Rishikesh. After this on returning to the hotel, I was invited to join the Ganga arti at the personal bank of the hotel by their in-house priest. This was a transcendental experience. The sound of the flowing river, the stars in sky, the chants and the flame of the lamps, created magic. An Irish lady, a guest at the hotel started crying; “tears of ecstasy”; she said. Ganga Arti at evening also takes place at Triveni Ghat, Lakshman Jhula. After the arti I worked on my travel journal, painting and writing down my thoughts and experiences of the day. 		
 
-![placeholder](/assets/images/Evening-Ganga-arti){:.centered}
+![placeholder](/assets/images/Evening-Ganga-arti.jpg){:.centered}
 																											
 ## The Walking Trail
 
