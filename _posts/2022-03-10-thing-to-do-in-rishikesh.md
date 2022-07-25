@@ -4,7 +4,7 @@ title: Things to Do in Rishikesh
 date: 2022-03-10 18:13
 author: Dipannita
 comments: true
-categories: [beatlesashram, beatlescave, bungeejumping, chotiwala, gangaarti, lakshmanjhula, mahadev, neelkanthtemple, ramjhula, ramjhulalakshmanjhula, Rishikesh, riverrafting, Travel, uttarakhand, yogacapital]
+tags: Travel
 lightbox_captions: true
 image: /assets/images/rishikesh/Rishikesh-Shiva-1.jpg  
 permalink: things-to-do-in-rishikesh/

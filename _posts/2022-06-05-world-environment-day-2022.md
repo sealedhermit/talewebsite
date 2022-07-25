@@ -7,13 +7,7 @@ layout: post
 
 permalink: world-environment-day-2022/
 
-categories:
-    - Nature
-    - Travel
-
-tag:
-   - Himalayas
-   - Nature
+tags: Philosophy
 
 
 

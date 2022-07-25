@@ -34,7 +34,9 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-loading-lazy
-  
+
+gems:
+  - jekyll-font-awesome-sass
  
   # - jemoji #Uncomment this to allow emoji in your post
 

@@ -8,17 +8,9 @@ layout: post
 
 permalink: the-rathas-chariots-of-jagannaths-chariot-parade-ratha-yatra-at-puri/
 
-categories:
-    - Festival
-    - Travel
 
-tags:
-    - Chariotparade
-    - jagannath
-    - Puri
-    - Rathayatra
-    - rathayatraofpuri
-    - raths
+tags: Festivals
+   
 lightbox_captions: true
 image: /assets/images/ratha/jagannaths-1.jpg    
 comments: true   

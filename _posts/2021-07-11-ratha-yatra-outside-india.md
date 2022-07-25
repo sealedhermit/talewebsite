@@ -6,14 +6,10 @@ layout: post
 
 permalink: ratha-yatra-outside-India/
 
-categories:
-   - Culture
-   - Festivals
 
-tag:
-   - International
-   - Iskcon
-   - Indian Culture
+
+tags: Festivals
+   
 
 lightbox_captions: true
 image: /assets/images/ryoutside/paris.jpg  

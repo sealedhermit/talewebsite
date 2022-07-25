@@ -5,7 +5,7 @@ date: 2022-03-29 14:59
 author: Dipannita
 comments: true
 permalink: trip-to-sittong/
-categories: [ahaldara, cinchona, himalayanhamlet, mongpu rabindranathtagore, naturesbliss, northbengal, offbeatdestination, oranges, pristine, serene, sittong, tea, Travel, westbengaltourism]
+tags: Travel
 lightbox_captions: true
 image: /assets/images/sittong/sittong.jpg 
 ---

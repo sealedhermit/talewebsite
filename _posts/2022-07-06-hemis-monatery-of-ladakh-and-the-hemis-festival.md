@@ -6,15 +6,9 @@ date: '2022-07-06T09:26:47+00:00'
 layout: post
 
 permalink: /hemis-monatery-of-ladakh-and-the-hemis-festival/
-categories:
-    - Festival
-    - Travel
-tags:
-    - hemis festival
-    - hemis monastry
-    - ladakh
-    - leh
-    - monastery
+
+tags: Festivals
+
 lightbox_captions: true
 image: /assets/images/hemis/Hemis-Festival_Cover.webp
 comments: true
