@@ -2,7 +2,7 @@
 layout: post
 title: Growing up with ‘The Adventures of Tintin’
 date: 2022-01-10 00:33
-author: admin
+author: Dipannita
 comments: true
 tags: Books
 permalink: growing-up-with-the-adventures-of-tintin/
